@@ -3,6 +3,8 @@
 # Project Overview:
 App built using the Flutter framework. It combines the power of Firebase for authentication, real-time database, and storage with the state management capabilities of Provider, and the convenience of shared preferences for local data storage.
 
+linkedin link: https://www.linkedin.com/posts/patrick-nashaat-0474ba24a_shop-app-app-built-using-the-flutter-framework-activity-7095735775094317056-tWvP?utm_source=share&utm_medium=member_desktop
+
 
 ## Features and Components:
 
