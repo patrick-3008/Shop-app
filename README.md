@@ -5,6 +5,12 @@ App built using the Flutter framework. It combines the power of Firebase for aut
 
 linkedin link: https://www.linkedin.com/posts/patrick-nashaat-0474ba24a_shop-app-app-built-using-the-flutter-framework-activity-7095735775094317056-tWvP?utm_source=share&utm_medium=member_desktop
 
+# Screenshots:
+<img src="https://github.com/patrick-3008/To-do-app/assets/121394398/ffa2a87f-59a4-4d80-91bd-b0a041993dde" width="200">
+<img src="https://github.com/patrick-3008/To-do-app/assets/121394398/640aa243-5236-4d86-96e0-2f39cd9b5786" width="200">
+<img src="https://github.com/patrick-3008/To-do-app/assets/121394398/c501a35c-08dc-49aa-8c3a-a0f5cc1d65c9" width="200">
+<img src="https://github.com/patrick-3008/To-do-app/assets/121394398/98680a53-347e-4265-896c-56f468a93857" width="200">
+
 
 ## Features and Components:
 
