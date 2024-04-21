@@ -211,7 +211,7 @@ class _AuthCardState extends State<AuthCard>
                         borderRadius: BorderRadius.circular(30)),
                     padding: EdgeInsets.symmetric(horizontal: 30, vertical: 8),
                     // ignore: deprecated_member_use
-                    primary: Theme.of(context).primaryColor,
+                    // primary: Theme.of(context).primaryColor,
                   ),
                 ),
               ],
