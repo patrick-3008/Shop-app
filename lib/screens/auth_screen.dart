@@ -210,7 +210,6 @@ class _AuthCardState extends State<AuthCard>
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(30)),
                     padding: EdgeInsets.symmetric(horizontal: 30, vertical: 8),
-                    // ignore: deprecated_member_use
                     // primary: Theme.of(context).primaryColor,
                   ),
                 ),
@@ -251,8 +250,7 @@ class _AuthCardState extends State<AuthCard>
         errorMessage = 'Invalid password.';
       }
       _showErrorDialog(errorMessage);
-    }
-     catch (error) {
+    } catch (error) {
       const errorMessage =
           'Could not authenticate you. Please try again later.';
       _showErrorDialog(errorMessage);

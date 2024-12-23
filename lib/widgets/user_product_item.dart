@@ -32,8 +32,7 @@ class UserProductItem extends StatelessWidget {
             ),
             IconButton(
               icon: Icon(Icons.delete),
-              // ignore: deprecated_member_use
-              color: Theme.of(context).errorColor,
+              color: Colors.red,
               onPressed: () async {
                 try {
                   await Provider.of<Products>(context, listen: false)

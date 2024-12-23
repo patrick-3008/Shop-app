@@ -28,8 +28,7 @@ class CardItem extends StatelessWidget {
         margin: EdgeInsets.symmetric(horizontal: 15, vertical: 4),
         child: Icon(
           Icons.delete,
-          // ignore: deprecated_member_use
-          color: Theme.of(context).errorColor,
+          color: Colors.red,
           size: 40,
         ),
       ),
@@ -53,8 +52,8 @@ class CardItem extends StatelessWidget {
           ),
         );
       },
-      onDismissed: (_){
-        Provider.of<Cart>(context,listen: false).removeItem(productId);
+      onDismissed: (_) {
+        Provider.of<Cart>(context, listen: false).removeItem(productId);
       },
       child: Card(
         margin: EdgeInsets.symmetric(horizontal: 15, vertical: 4),

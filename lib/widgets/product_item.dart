@@ -50,7 +50,6 @@ class ProductItem extends StatelessWidget {
           ),
           trailing: IconButton(
             icon: Icon(Icons.shopping_cart),
-            // ignore: deprecated_member_use
             color: Colors.deepOrange,
             onPressed: () {
               cart.addItem(product.id!, product.price!, product.title!);
